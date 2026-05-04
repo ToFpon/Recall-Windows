@@ -5,6 +5,7 @@
 # Usage : python3 recall-windows.py -read   (sauvegarder)
 #         python3 recall-windows.py -run    (restaurer)
 #         python3 recall-windows.py -ui     (interface graphique)
+#License: GPLv3
 
 import subprocess
 import os
